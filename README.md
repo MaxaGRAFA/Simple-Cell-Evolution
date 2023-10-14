@@ -29,3 +29,7 @@ The project was inspired by these videos:
 https://www.youtube.com/watch?v=PCx228KcOow&t=336s
 
 https://www.youtube.com/watch?v=KLv0Z43ijyQ&t=258s
+
+## License
+
+This project is distributed under the MIT license.
